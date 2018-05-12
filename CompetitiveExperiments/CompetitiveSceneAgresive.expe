@@ -1,0 +1,16 @@
+CompetiveExperimentMT
+EnemyModels:CompetitiveRobots.FightScoutRobotMem()-5
+EnemyBrainModels:CompetitiveRobots.FightScoutRobotMem-G
+AmountOfObstacle:500
+ValueOfDiscoveredObstacle:100
+ValueOfDeadRobot:0
+ValueOfKill:0
+ValueOfGivenDamage:10
+ValueOfRemainingHealth:0
+ValueOfColissions:0
+PopulationSize:100
+NumberOfGenerations:1000
+MapIteration:1000
+Name:CompetitiveScoutWalk
+WorkingDir:CompetitiveScoutWalk
+Models:CompetitiveRobots.FightScoutRobotMem()-5
