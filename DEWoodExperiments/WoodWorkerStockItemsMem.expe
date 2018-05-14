@@ -10,8 +10,8 @@ ValueOfContaineredNoWood:-100
 PopulationSize:200
 NumberOfGenerations:2000
 MapIteration:2000
-Name:WoodWorkerPickUpMem
+Name:WoodWorkerStore
 Models:WoodRobots.WoodWorkerRobotMem()-2
-WorkingDir:WorkerPickUpMem
+WorkingDir:WoodWorkerStore
 
 
