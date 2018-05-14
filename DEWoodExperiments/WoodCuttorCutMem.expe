@@ -1,6 +1,6 @@
 WoodExperimentMt
 AmountOfTrees:400
-AmountOfWood:10000
+AmountOfWood:0
 ValueOfCutWood:1000
 ValueOfCollision:-1
 ValueOfDiscoveredTree:10

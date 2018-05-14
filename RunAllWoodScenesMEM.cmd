@@ -1,9 +1,7 @@
 @echo off
 
 echo "All Scenes of wood scene will be started"
-echo "WoodCutter Walk started"
-start /wait SwarmSimFramework.exe -de DEWoodExperiments/WoodCuttorWalkMem.expe
-echo "WoodCutter Walk finnished"
+echo "WoodCutter Walk should be finnished"
 echo "WoodCutter cut started"
 start /wait SwarmSimFramework.exe -de DEWoodExperiments/WoodCuttorCutMem.expe "WoodCuttorWalkMemBrain0.json"
 echo "WoodWorker Walk started" 
