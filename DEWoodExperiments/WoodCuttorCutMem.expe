@@ -1,0 +1,14 @@
+WoodExperimentMt
+AmountOfTrees:400
+AmountOfWood:10000
+ValueOfCutWood:1000
+ValueOfCollision:-1
+ValueOfDiscoveredTree:10
+ValueOfStockedWood:0
+ValueOfContaineredWood:0
+PopulationSize:200
+NumberOfGenerations:1500
+MapIteration:1000
+Name:WoodCuttorCutMem
+Models:WoodRobots.ScoutCutterRobotMem()-3
+WorkingDir:WCuttorCutMem
