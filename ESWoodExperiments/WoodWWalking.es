@@ -1,6 +1,6 @@
 ﻿WoodScene
 #ES SETTINGS
-RobotModels:WoodRobots.WoodWorkerRobotMem-4
+RobotModels:WoodRobots.WoodWorkerRobotMem-2
 BrainModels:10=WoodRobots.WoodWorkerRobotMem()-G
 f:WoodSceneFitnessCounter
 #ES
@@ -13,12 +13,12 @@ Name:WoodWWalking
 WorkingDir:WoodWWalkES
 Elitism:false
 #F SETTINGS
-ValueOfCutWood:100
+ValueOfCutWood:20
 ValueOfCollision:0
 ValueOfDiscoveredTree:0
 ValueOfStockedWood:0
 ValueOfContaineredWood:0
 #MAP SETTINGS 
-AmountOfTrees:200
-AmountOfWoods:200
+AmountOfTrees:0
+AmountOfWoods:400
 

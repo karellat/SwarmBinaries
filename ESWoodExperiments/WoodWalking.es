@@ -1,6 +1,6 @@
 ﻿WoodScene
 #ES SETTINGS
-RobotModels:WoodRobots.ScoutCutterRobotMem-5
+RobotModels:WoodRobots.ScoutCutterRobotMem-3
 BrainModels:10=WoodRobots.ScoutCutterRobotMem()-G
 f:WoodSceneFitnessCounter
 #ES

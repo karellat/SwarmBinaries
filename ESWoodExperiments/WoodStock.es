@@ -1,6 +1,6 @@
 ﻿WoodScene
 #ES SETTINGS
-RobotModels:WoodRobots.WoodWorkerRobotMem-4
+RobotModels:WoodRobots.WoodWorkerRobotMem-2
 BrainModels:10=WoodRobots.WoodWorkerRobotMem()-WoodPickupES\[i]thread\best0_WoodWorkerM
 f:WoodSceneFitnessCounter
 #ES
