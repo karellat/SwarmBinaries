@@ -11,8 +11,11 @@ echo "WoodWorker Walk started"
 start /wait SwarmSimFramework.exe -es ESWoodExperiments\WoodWWalking.es
 echo "WoodWorker Walk finnished"
 echo "WoodWorker PickUp started"
-start /wait SwarmSimFramework.exe -es ESWoodExperiments\WoodCollecting.es
+start /wait SwarmSimFramework.exe -es ESWoodExperiments\WoodPickup.es
 echo "WoodWorker PickUp finnished"
+echo "WoodWorker Store started"
+start /wait SwarmSimFramework.exe -es ESWoodExperiments\WoodStock.es
+echo "WoodWorker Store finnished"
 echo "WoodWorker Coop started"
 start /wait SwarmSimFramework.exe -es ESWoodExperiments\WoodCoop.es
 echo "WoodWorker Coop finnished"
